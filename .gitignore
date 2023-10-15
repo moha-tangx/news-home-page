@@ -15,15 +15,9 @@
 .DS_Store
 .prettierignore
 
-########################
-#ignore images and assets...
 
-.jpg
-.png
 
 
 #########################
 assets and desing folders
-assets
 design
-results
