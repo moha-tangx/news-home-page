@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [checpout for the code solution in my github repository](https://your-solution-url.com)
-- Live Site URL: [the live site finished project](https://your-live-site-url.com)
+- Solution URL: [checpout for the code solution in my github repository](https://github.com/moha-tangx/news-home-page)
+- Live Site URL: [the live site finished project]( https://moha-tangx.github.io/news-home-page/)
 
 ## My process
 
